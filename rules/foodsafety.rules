@@ -1,0 +1,10 @@
+#-----------------------------------------------------------------
+#foodsafety rules 
+#Modifided Time: 2011-6-10
+#Author:yyh
+#-----------------------------------------------------------------
+[resemble: (?a http://www.domain2.com#causedby ?c),(?b http://www.domain2.com#causedby ?c),notEqual(?a, ?b)->(?a http://www.domain2.com#resemble ?b)]
+
+
+
+  

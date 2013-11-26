@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+<driver>com.mysql.jdbc.Driver</driver>
+<url>jdbc:mysql://localhost:3306/</url>
+<username>root</username>
+<password>123</password>
+<dbname>spider</dbname>
+</database>

@@ -1,0 +1,164 @@
+document.write("");
+
+	var text_array = new Array();
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10532,0,10950,11327,11617,12121,1&d=http%3A%2F%2Fgroup.byecity.com%2Fline-4595.html" target="_blank">皇室假期阿联酋6日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10533,0,10950,11327,11618,12122,1&d=http%3A%2F%2Fgroup.byecity.com%2Fline-4556.html" target="_blank">蜜月天堂大溪地8日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10534,0,10950,11327,11619,12123,1&d=http%3A%2F%2Fpackage.byecity.com%2FPackage-76.html" target="_blank">芝加哥超值自由行</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10535,0,10950,11327,11620,12124,1&d=http%3A%2F%2Fwww.dujia100.com%2Fzt%2Fmaldive%2Findex.shtml" target="_blank">马尔代夫6天自由行</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10536,0,10950,11327,11621,12125,1&d=http%3A%2F%2Fwww.dujia100.com%2Fpujidao.shtml" target="_blank">普吉岛超值深度6日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10537,0,10950,11327,11622,12126,1&d=http%3A%2F%2Fwww.byts.cn%2Ftour%2F10105328.htm" target="_blank">灵山大佛中山陵7日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10538,0,10950,11327,11623,12127,1&d=http%3A%2F%2Fwww.byts.cn%2Ftour%2F10104886.htm" target="_blank">船游西溪纯玩湿地</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10539,0,10950,11327,11624,12128,1&d=http%3A%2F%2Fwww.byts.cn%2Ftour%2F10101343.htm" target="_blank">凤凰古城张家界6日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10540,0,10950,11327,11625,12129,1&d=http%3A%2F%2Fwww.61tours.com%2Fshiyi%2Fsdjt%2Findex.html" target="_blank">十一特惠全家游山东</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10541,0,10950,11327,11626,12130,1&d=http%3A%2F%2Fwww.wutong-wish.com%2Fhome.html" target="_blank">恋上梧桐享创意美味</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10542,0,10960,11323,11703,12073,1&d=http%3A%2F%2F61tours.com%2Fshiyi%2Fhdjt%2Findex.html" target="_blank">十一华东水乡直通车</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10543,0,10950,11327,11628,12132,1&d=http%3A%2F%2Fwww.61tours.com%2Fshiyi%2Fgxlm%2Findex.html" target="_blank">国庆假期携手桂林游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10544,0,10950,11327,11629,12133,1&d=http%3A%2F%2Fwww.aoyou.com%2FDomesticPackage%2FP10174i2" target="_blank">十一特惠吉隆坡6日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10545,0,10950,11327,11630,12134,1&d=http%3A%2F%2Fwww.aoyou.com%2FDomesticPackage%2FP9827i2" target="_blank">马尔代夫超值6日游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10546,0,10950,11327,11631,12135,1&d=http%3A%2F%2Fwww.61tours.com%2FTours%2F201146%2Fn3859405.html" target="_blank">驰骋草原 放纵心情</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10547,0,10950,11327,11632,12136,1&d=http%3A%2F%2Fwww.51tour.com%2Fqiant%2Fxianlu3824_1.html" target="_blank">4千元豪华日本游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10548,0,10950,11327,11633,12137,1&d=http%3A%2F%2Fwww.51tour.com%2Fqiant%2Fxianlu3588_1.html" target="_blank">超值泰国一地6天</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10549,0,10950,11327,11634,12138,1&d=http%3A%2F%2Fwww.51tour.com%2Fqiant%2Fxianlu3594_1.html" target="_blank">冰点价游泰新马10天</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10550,0,10950,11327,11635,12139,1&d=http%3A%2F%2Fwww.51tour.com%2Fqiant%2Fxianlu3518_1.html" target="_blank">浪漫传奇布拉格8日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10551,0,10950,11327,11636,12143,1&d=http%3A%2F%2Fwww.51tour.com%2Fqiant%2Fxianlu3829_1.html" target="_blank">冬日里夏威夷14日游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10494,10494,10730,0,10950,11327,11773,12253,1&d=1" target="_blank">1</a>';
+
+	text_array.push(text);
+document.write("");
+
+if(text_array[20].indexOf(">0</a>")>-1){
+document.write("<style>.hcbg{line-height:28px;border:1px solid #ACE; padding-left:10px; font-weight:bold;}.fs12,h6,button,li samp,.hc3 p,.hc4,.vote,.HCB .hc1,.hc0 .hc1,.hcr .hc1,.hdat{font-size:12px;}.fl,.hcl,.hcc,.hcr,.hclc,.hccr,.HCBL,ul.L2 li,ul.L3 li,ul.L4 li,ul.L6 li,ul.L7 li,ul.L10 li,.vote p,.hc3 div div,.vrecommend{float:left;}.db,h1,.HC,.HCB,.HCBL,ul.L2,ul.L3,li,.hc4 img,.vote h6,.vote p,.vote span,.image,.image img,.va,.vb,.vc{display:block;}.L2 li{width:44.7%!important;width:49%;}.hc3,ul.L2,ul.L3,.list1 li{overflow:auto;*display:inline-block;}.hc4 .L2 a,.hc3 .L2 div{width:49.85%!important;width:49.8%;}.mt10{margin-top:10px;}\<\/style><table width=\"100%\"  border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=320><div class=\"hcbg mt10\" style=\"color:#FFFFFF\"><span class=\"fr fs12\">广告<\/span>经典推荐\<\/div><div style=\"border:1px solid #ACE;border-top:0px;\" class=\"hc3 fs12\"><ul class=\"L2\">");
+}else{
+document.write("<style>.hc1 ul,.hc1 li{list-style:none;margin:0;padding:0;}.hc1 ul{background:transparent urlhttp://ent.ynet.com/gall/2009/i/hc1tab_msn.png) repeat-x left bottom;width:100%;}.hc1 li{display:inline;}.hc1 li a{float:left;line-height:25px;border-right:1px solid #aaccee;padding:0 15px;}.hc1 li.current a{background:#fff;border-bottom-color:#fff;}.hc1 li.last a{border-right:none;}.fs12,h6,button,li samp,.hc3 p,.hc4,.vote,.HCB .hc1,.hc0 .hc1,.hcr .hc1,.hdat{font-size:12px;}.fl,.hcl,.hcc,.hcr,.hclc,.hccr,.HCBL,ul.L2 li,ul.L3 li,ul.L4 li,ul.L6 li,ul.L7 li,ul.L10 li,.vote p,.hc3 div div,.vrecommend{float:left;}.db,h1,.HC,.HCB,.HCBL,ul.L2,ul.L3,li,.hc4 img,.vote h6,.vote p,.vote span,.image,.image img,.va,.vb,.vc{display:block;}.L2 li{width:44.7%!important;width:49%;}.hc3,ul.L2,ul.L3,.hc4,.hc1tab,.hc1tab ul,.list1 li{overflow:auto;*display:inline-block;}.hc4 .L2 a,.hc3 .L2 div{width:49.85%!important;width:49.8%;}.mt10{margin-top:10px;}\<\/style><table width=\"100%\"  border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=320><div class=\"hc1 mt10\"><span class=\"fr fs12\">广告<\/span>经典推荐\<\/div><div class=\"hc3 fs12\"><ul class=\"L2\">");
+}
+for(var i = 0; i < 5; i++){if(text_array[20].indexOf(">0</a>")>-1 && (i==0 || i==2 || i==4)){document.write('<LI style=\"background-color: #E1E8F8\"><b>' + text_array[i] + '</b></LI><LI style=\"background-color: #E1E8F8\"><b>' + text_array[i+5] + '</b></LI>');}else{document.write('<LI>' + text_array[i] + '</LI><LI>' + text_array[i+5] + '</LI>');}}
+if(text_array[20].indexOf(">0</a>")>-1){
+document.write("\<\/ul>\<\/div>\<\/td><td width=10>\<\/td><td width=320><div class=\"hcbg mt10\" style=\"color:#FFFFFF\"><span class=\"fr fs12\">广告<\/span>完美体验\<\/div><div style=\"border:1px solid #ACE;border-top:0px;\" class=\"hc3 fs12\"><ul class=\"L2\">");
+}else{
+document.write("\<\/ul>\<\/div>\<\/td><td width=10>\<\/td><td width=320><div class=\"hc1 mt10\"><span class=\"fr fs12\">广告<\/span>完美体验\<\/div><div class=\"hc3 fs12\"><ul class=\"L2\">");
+}
+for(var i = 10; i < 15; i++){if(text_array[20].indexOf(">0</a>")>-1 && (i==10 || i==12 || i==14)){document.write('<LI style=\"background-color: #E1E8F8\"><b>' + text_array[i] + '</b></LI><LI style=\"background-color: #E1E8F8\"><b>' + text_array[i+5] + '</b></LI>');}else{document.write('<LI>' + text_array[i] + '</LI><LI>' + text_array[i+5] + '</LI>');}}document.write("\<\/ul>\<\/div>\<\/td>\<\/tr>\<\/table>");

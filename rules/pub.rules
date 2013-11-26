@@ -1,0 +1,9 @@
+#-----------------------------------------------------------------
+#pub rules 
+#Modifided Time: 2005-6-5
+#Author:cyh
+#-----------------------------------------------------------------
+
+[bothCiting: (?a http://www.domain2.com#Citing ?c),(?b http://www.domain2.com#Citing ?c),notEqual(?a, ?b)->(?a http://www.domain2.com#bothCiting ?b)]
+[bothCited: (?a http://www.domain2.com#Citing ?b),(?a http://www.domain2.com#Citing ?c),,notEqual(?b, ?c)->(?b  http://www.domain2.com#bothCited ?c)]
+[相似于: (?a http://www.domain2.com#含有 ?c),(?b http://www.domain2.com#含有 ?c),notEqual(?a, ?b)->(?a http://www.domain2.com#相似于 ?b)]

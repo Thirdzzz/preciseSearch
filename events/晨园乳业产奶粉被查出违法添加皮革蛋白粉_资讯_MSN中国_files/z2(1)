@@ -1,0 +1,88 @@
+document.write("");
+
+	var text_array = new Array();
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10522,0,10950,11326,11606,12111,1&d=http%3A%2F%2Fwww.61tours.com%2FTours%2F20118%2F651.html" target="_blank">畅享山东9地深度游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10523,0,10950,11326,11607,12112,1&d=http%3A%2F%2Fwww.jdjq.com.cn%2Fjdjq%2Ftour_list_detail.php%3Fid%3D1295" target="_blank">墨尔本观海豚赏花游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10524,0,10950,11326,11609,12113,1&d=http%3A%2F%2Fwww.jettour.com.cn%2Fjdjq%2Ftour_list_detail.php%3Fid%3D949" target="_blank">普吉婚纱摄影超值游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10525,0,10950,11326,11610,12114,1&d=http%3A%2F%2Fdomestic.cits.com.cn%2Fdomestic%2Froute%2F07001069564.htm" target="_blank">炫彩金秋拉萨纯玩团</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10526,0,10950,11326,11611,12115,1&d=http%3A%2F%2Fdomestic.cits.com.cn%2Fdomestic%2Froute%2F07001068381.htm" target="_blank">游广西看瀑布访寿乡</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10527,0,10950,11326,11612,12116,1&d=http%3A%2F%2Foutbound.cits.com.cn%2Foutbound%2Froute%2F04001030555.htm" target="_blank">奥德瑞湖泊古堡9日</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10528,0,10950,11326,11613,12117,1&d=http%3A%2F%2Foutbound.cits.com.cn%2Foutbound%2Froute%2F04001032469.htm" target="_blank">十一美国12天特价游</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10529,0,10950,11326,11614,12118,1&d=http%3A%2F%2Fwww.caissa.com.cn%2Fxiaweiyi%2F" target="_blank">夏威夷特惠浪漫之旅</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10530,0,10950,11326,11615,12119,1&d=http%3A%2F%2Fwww.caissa.com.cn%2Fsingaporef1%2F" target="_blank">纵情狮城漫游新加坡</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10531,0,10950,11326,11616,12120,1&d=http%3A%2F%2Fwww.caissa.com.cn%2F201108%2F19818.shtml" target="_blank">冰色妖娆 行摄挪威</a>';
+
+	text_array.push(text);
+document.write("");
+
+	var text = "";
+	
+text += '<a href="http://a.emedia.cn?i=10160,10171,10492,10492,10732,0,10950,11326,11775,12257,1&d=1" target="_blank">1</a>';
+
+	text_array.push(text);
+document.write("");
+
+if(text_array[10].indexOf(">0</a>")>-1){
+document.write("<style>.hcbg{line-height:28px;border:1px solid #A95ADF; padding-left:10px; font-weight:bold;}.fs12,h6,button,li samp,.hc3 p,.hc4,.vote,.HCB .hc1,.hc0 .hc1,.hcr .hc1,.hdat{font-size:12px;}.fl,.hcl,.hcc,.hcr,.hclc,.hccr,.HCBL,ul.L2 li,ul.L3 li,ul.L4 li,ul.L6 li,ul.L7 li,ul.L10 li,.vote p,.hc3 div div,.vrecommend{float:left;}.db,h1,.HC,.HCB,.HCBL,ul.L2,ul.L3,li,.hc4 img,.vote h6,.vote p,.vote span,.image,.image img,.va,.vb,.vc{display:block;}.L2 li{width:44.7%!important;width:49%;}.hc3,ul.L2,ul.L3,.list1 li{overflow:auto;*display:inline-block;}.hc4 .L2 a,.hc3 .L2 div{width:49.85%!important;width:49.8%;}.mt10{margin-top:10px;}\<\/style><div class=\"hc1 mt10\"><span class=\"fr fs12\">广告<\/span>爱尚旅行\<\/div><div style=\"background:url(http://ent.ynet.com/gall/ycdstp.gif);border:1px solid #A95ADF;border-top:0px;\" class=\"hc3 fs12\"><ul class=\"L2\">");
+}else{
+document.write("<style>.hc1 ul,.hc1 li{list-style:none;margin:0;padding:0;}.hc1 ul{background:transparent url(http://ent.ynet.com/gall/2009/i/hc1tab_msn.png) repeat-x left bottom;width:100%;}.hc1 li{display:inline;}.hc1 li a{float:left;line-height:25px;border-right:1px solid #aaccee;padding:0 15px;}.hc1 li.current a{background:#fff;border-bottom-color:#fff;}.hc1 li.last a{border-right:none;}.fs12,h6,button,li samp,.hc3 p,.hc4,.vote,.HCB .hc1,.hc0 .hc1,.hcr .hc1,.hdat{font-size:12px;}.fl,.hcl,.hcc,.hcr,.hclc,.hccr,.HCBL,ul.L2 li,ul.L3 li,ul.L4 li,ul.L6 li,ul.L7 li,ul.L10 li,.vote p,.hc3 div div,.vrecommend{float:left;}.db,h1,.HC,.HCB,.HCBL,ul.L2,ul.L3,li,.hc4 img,.vote h6,.vote p,.vote span,.image,.image img,.va,.vb,.vc{display:block;}.L2 li{width:44.7%!important;width:49%;}.hc3,ul.L2,ul.L3,.hc4,.hc1tab,.hc1tab ul,.list1 li{overflow:auto;*display:inline-block;}.hc4 .L2 a,.hc3 .L2 div{width:49.85%!important;width:49.8%;}.mt10{margin-top:10px;}\<\/style><div class=\"hc1 mt10\"><span class=\"fr fs12\">广告<\/span>爱尚旅行\<\/div><div class=\"hc3 fs12\"><ul class=\"L2\">");
+}
+for(var i = 0; i < 5; i++){if(text_array[10].indexOf(">0</a>")>-1 && (i==0 || i==2 || i==4)){document.write('<LI><b>' + text_array[i] + '</b></LI><LI><b>' + text_array[i+5] + '</b></LI>');}else{document.write('<LI>' + text_array[i] + '</LI><LI>' + text_array[i+5] + '</LI>');}}document.write("\<\/ul>\<\/div>");
